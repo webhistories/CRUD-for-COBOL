@@ -13,3 +13,9 @@
 ![MACHINE4_OUTPUT3](https://user-images.githubusercontent.com/25099348/111412565-95abe480-8717-11eb-913c-b742a7b8edf9.png)
 ![MACHINE4_OUTPUT4](https://user-images.githubusercontent.com/25099348/111412567-96447b00-8717-11eb-8f28-8343f3736038.png)
 ![MACHINE4_OUTPUT1](https://user-images.githubusercontent.com/25099348/111412568-96dd1180-8717-11eb-9a2e-d49cd7c9eabe.png)
+# **[Documentation](https://drive.google.com/file/d/0B3MR0EzCr-tOVF9YNlhxS19JMkE/view?usp=sharing)** :grin:
+
+Pamantasan ng Lungsod ng Maynila 🏫
+<br>Bachelor of Science in Computer Studies major in Computer Science 💻
+<br>Beatriz Jude Lorzano 👧
+<br>2015-02717 📖
